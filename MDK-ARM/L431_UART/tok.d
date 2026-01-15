@@ -1,0 +1,10 @@
+l431_uart\tok.o: ..\BSP\nmea_decode\src\tok.c
+l431_uart\tok.o: ..\BSP\nmea_decode\include\nmea\tok.h
+l431_uart\tok.o: ..\BSP\nmea_decode\include\nmea\config.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+l431_uart\tok.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

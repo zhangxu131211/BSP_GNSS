@@ -1,0 +1,12 @@
+l431_uart\parser.o: ..\BSP\nmea_decode\src\parser.c
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\tok.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\config.h
+l431_uart\parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\parse.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\sentence.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\info.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\time.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\parser.h
+l431_uart\parser.o: ..\BSP\nmea_decode\include\nmea\context.h
+l431_uart\parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+l431_uart\parser.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

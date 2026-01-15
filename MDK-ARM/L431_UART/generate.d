@@ -1,0 +1,12 @@
+l431_uart\generate.o: ..\BSP\nmea_decode\src\generate.c
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\tok.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\config.h
+l431_uart\generate.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\sentence.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\info.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\time.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\generate.h
+l431_uart\generate.o: ..\BSP\nmea_decode\include\nmea\units.h
+l431_uart\generate.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+l431_uart\generate.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+l431_uart\generate.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
